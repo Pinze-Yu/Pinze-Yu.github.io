@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate student from [Courant Institute of Mathematical Sciences]((https://cims.nyu.edu/dynamic/)), [New York University](https://www.nyu.edu/). My research interest includes model interpretability in computer vision and natural language processing. Previously, I have explored some theoretical problems in numerical computing.
+I am a senior undergraduate student from [Courant Institute of Mathematical Sciences]((https://cims.nyu.edu/)), [New York University](https://www.nyu.edu/). My research interest includes model interpretability in computer vision and natural language processing. Previously, I have explored some theoretical problems in numerical computing.
