@@ -1,5 +1,5 @@
 ---
-permalink: "https://pinze-yu.github.io/"
+permalink: "/"
 title: "Pinze Yu"
 excerpt: "About me"
 author_profile: true
