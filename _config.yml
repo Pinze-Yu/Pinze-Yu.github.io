@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pinze Yu/Personal Homepage"
+title                    : "Personal Homepage"
 title_separator          : "-"
 name                     : &name "Pinze Yu"
 description              : &description "Math & CS Senior at NYU"
@@ -83,7 +83,7 @@ author:
   name             : "Pinze Yu"
   avatar           : "profile.png"
   bio              : "Math & CS Senior at NYU"
-  location         : "[New York, NY]https://maps.app.goo.gl/6s4MsdQqk8reLwHk7"
+  location         : "https://maps.app.goo.gl/6s4MsdQqk8reLwHk7)"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
